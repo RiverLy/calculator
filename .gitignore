@@ -186,3 +186,4 @@ gradle-app.setting
 **/build/
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij,macos,gradle
+to_ignore.txt
